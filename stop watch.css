@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #313030;
+    background-color: #123c3d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ button {
     padding: 30px 20px;
     margin: 5px;
     border: none;
-    background-color: #142631;
+    background-color: #22313b;
     color: white;
     border-radius: 5px;
     cursor: pointer;
